@@ -23,6 +23,6 @@ int main(void) {
 	}
 
 	/* Print the reversed string. */
-	printf("%s\n", s);
+	printf("%s\n\n", s);
 	return 0;
 }
